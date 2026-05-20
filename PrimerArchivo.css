@@ -1,6 +1,10 @@
 body {
     background-color: #0a0a0a;
     color: #eee9e9;
+     a {
+    color: #f30808; /* Cambia esto por tu color favorito (nombre, HEX o RGB) */
+    text-decoration: none; /* Opcional: quita la línea subrayada */
+  }
 }
 
 
@@ -34,4 +38,9 @@ body {
     /* Es necesario darle una altura mínima para que la imagen se vea */
     min-height: 400px; 
 }
-
+.linkrojo{
+    display: flex;
+    justify-content: center; 
+     text-decoration:none;
+                a { color: rgb(253, 5, 5); }
+}
