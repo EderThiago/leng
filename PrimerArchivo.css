@@ -7,6 +7,19 @@ body {
   }
 }
 
+.ticketmaster {
+     a {
+    color: #1808f3; /* Cambia esto por tu color favorito (nombre, HEX o RGB) */
+    text-decoration: none; /* Opcional: quita la línea subrayada */
+  }
+}
+.bandsintown {
+     a {
+    color: #0895f3; /* Cambia esto por tu color favorito (nombre, HEX o RGB) */
+    text-decoration: none; /* Opcional: quita la línea subrayada */
+  }
+}
+
 
 
 .filaPrincipal{
@@ -44,3 +57,6 @@ body {
      text-decoration:none;
                 a { color: rgb(253, 5, 5); }
 }
+
+
+
